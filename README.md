@@ -31,7 +31,6 @@
 
 ---
 
-
 <div align="center">
 
 ## 🛠️ Skills & Technologies  
@@ -65,6 +64,7 @@
 | *🤖 Full-Stack AI Agent* | AI-powered ticket management with role-based access control | MERN, Gemini AI, Inngest | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/ankitsharma101/smart-tickets) |
 | *🎮 Multiplayer WebSocket Game* | Real-time multiplayer game with live color interactions | MERN, Socket.IO | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/ankitsharma101/multiplayer-game) |
 | *🤖 JECRC ChatBot* | AI-powered college assistant chatbot | Python, NLP | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/ankitsharma101/jecrc-chat-bot) |
+| *📥 Reddit Scraper* | Scrapes Reddit posts & comments for data collection and analysis | Python, PRAW, Requests | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/ankitsharma101/reddit-scraper) |
 
 </div>
 
@@ -126,9 +126,9 @@ Bachelor of Technology – Information Technology
 *📚 Key Coursework:* Data Structures • Algorithms • Database Management • Software Engineering • Operating Systems • Computer Networks  
 
 *🏅 Specializations*  
-- Event-Driven Architecture & Microservices
-- AI-Powered Applications Development
-- Real-time WebSocket Applications
+- Event-Driven Architecture & Microservices  
+- AI-Powered Applications Development  
+- Real-time WebSocket Applications  
 
 </div>
 
