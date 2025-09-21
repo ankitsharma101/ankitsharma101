@@ -1,90 +1,149 @@
-<h1 align="center">Hey 👋What's Up? I am Ankit</h1>
+<div align="center">
 
-###
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ankit%20Sharma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20MERN%20Enthusiast&descAlignY=51&descAlign=50)
+
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitsharma101&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsharma101&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ankitsharma101&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ankitsharma101&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitsharma101&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Hey+there!+I'm+Ankit+👋;Full+Stack+Developer+💻;MERN+Stack+Enthusiast+⚡;AI+%26+WebSocket+Expert+🤖;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
+
 </div>
 
-###
+<br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitsharma101/ankitsharma101/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankitsharma101/ankitsharma101/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ankitsharma101/ankitsharma101/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/ankit-sharma101/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="100" alt="linkedin logo"  />
-  </a>
-  <a href="https://discordapp.com/users/546522151050805258" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="100" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/goland/goland-original.svg" height="40" alt="goland logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
+---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ankitsharma101.ankitsharma101&"  />
+
+
+## 🤝 Connect With Me  
+
 </div>
 
-###
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitsharma101.exe@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-sharma101)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/546522151050805258)
+
+</div>
+
+---
+
+
+<div align="center">
+
+## 🛠️ Skills & Technologies  
+
+</div>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,go,cpp,c,python,html,css,react" />
+<br>
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,mongodb,postgres,mysql,prisma" />
+<br>
+<img src="https://skillicons.dev/icons?i=docker,terraform,gcp,git,github,vscode,postman" />
+
+<img src="https://skillicons.dev/icons?i=tailwind" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Featured Projects  
+
+</div>
+
+<div align="center">
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| *🤖 Full-Stack AI Agent* | AI-powered ticket management with role-based access control | MERN, Gemini AI, Inngest | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/ankitsharma101/smart-tickets) |
+| *🎮 Multiplayer WebSocket Game* | Real-time multiplayer game with live color interactions | MERN, Socket.IO | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/ankitsharma101/multiplayer-game) |
+| *🤖 JECRC ChatBot* | AI-powered college assistant chatbot | Python, NLP | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/ankitsharma101/jecrc-chat-bot) |
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics  
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankitsharma101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsharma101&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ankitsharma101&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ankitsharma101&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Contribution Graph  
+
+</div>
+
+<div align="center">
+
+[![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitsharma101&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎓 Education & Achievements  
+
+</div>
+
+<div align="center">
+
+*🏛️ Jaipur Engineering College & Research Center Foundation, Jaipur*  
+Bachelor of Technology – Information Technology  
+2023 - 2027  
+
+*📚 Key Coursework:* Data Structures • Algorithms • Database Management • Software Engineering • Operating Systems • Computer Networks  
+
+*🏅 Specializations*  
+- Event-Driven Architecture & Microservices
+- AI-Powered Applications Development
+- Real-time WebSocket Applications
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ankitsharma101&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
+*Thanks for stopping by! Let's build something amazing together! 🚀*
+
+</div>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
+</div>
